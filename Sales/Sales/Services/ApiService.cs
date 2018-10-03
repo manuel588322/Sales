@@ -17,7 +17,7 @@
                 return new Response
                 {
                     IsSuccess = false,
-                    Message = "No esta conectado a internet",
+                    Message = "Please turn on your inter settings",
                 };
             }
 
@@ -27,7 +27,7 @@
                 return new Response
                 {
                     IsSuccess = false,
-                    Message = "No esta conectado a internet",
+                    Message = "Please turn on your inter settings",
                 };
             }
 
